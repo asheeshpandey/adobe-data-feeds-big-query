@@ -1,0 +1,16 @@
+*.pyc
+inputs/
+lib
+bin
+include
+.Python
+pip-selfcheck.json
+Scripts/
+tcl/
+metastore_db
+.vscode/settings.json
+main_private.py
+adobe_feed_trigger.sh
+helpfull commands.txt
+generate_schema.py
+adf_converter/__init__.py
