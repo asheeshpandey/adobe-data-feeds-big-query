@@ -17,6 +17,7 @@ ftp_configuration = {
 Google Cloud Configuration Example
 '''
 configuration_gcp = {
+    'service_account_file' : '[Service Account Key path]',
     'project_name' : '[project id]',
     
     # BigQuery Configuration
